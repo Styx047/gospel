@@ -4,7 +4,7 @@ head();
 
 module head() {
     ry(-90)
-    cylinder(h=30, d1=44, d2=41);
+    cylinder(h=30, d1=35, d2=30);
     
     s(1.1) {
         difference() {
